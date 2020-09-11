@@ -1,0 +1,33 @@
+{{#if resume.work.length}}
+<section class="container vertical">
+	<h2>Work</h2>
+
+    {{#each resume.work}}
+    <article>
+        {{#if position}}
+        <h3>{{position}}</h3>
+        {{/if}}
+        {{#if company}}
+        <div class="element">
+            {{#if website}}
+            <a href="{{website}}" data-print="url"><span class="emphasis">{{company}}</span></a>
+            {{else}}
+                <span class="emphasis">{{company}}</span>
+            {{/if}}
+            {{buildPeriod this 'startDate' 'endDate'}}
+        </div>
+        {{/if}}
+        {{#if summary}}
+        <div class="element">{{summary}}</div>
+        {{/if}}
+        {{#if highlights.length}}
+        <ul class="element">
+            {{#each highlights}}
+            <li>{{.}}</li>
+            {{/each}}
+        </ul>
+        {{/if}}
+    {{/each}}
+    </article>
+</section>
+{{/if}}

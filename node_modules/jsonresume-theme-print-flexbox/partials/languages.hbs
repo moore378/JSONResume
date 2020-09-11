@@ -1,0 +1,17 @@
+{{#if resume.languages.length}}
+<section class="container vertical">
+	<h2>Languages</h2>
+
+    {{#each resume.languages}}
+    <div class="element">
+        {{#if language}}
+            {{#if fluency}}
+            <span class="emphasis">{{language}}: </span>{{fluency}}
+            {{else}}
+            <span class="emphasis">{{language}}</span>
+            {{/if}}
+        {{/if}}
+    </div>
+    {{/each}}
+</section>
+{{/if}}

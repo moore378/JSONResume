@@ -1,0 +1,74 @@
+{{#resume.basics}}
+<section class="container horizontal">
+    {{#if picture}}
+        <div class="element">
+            <img src="{{picture}}" alt="profile" class="profile round"/>
+        </div>
+    {{/if}}
+
+    {{#if (or website email phone)}}
+    <address>
+        <h3>Contact</h3>
+
+        {{#if website}}
+        <div class="element">
+            <a href="{{website}}">{{website}}</a>
+        </div>
+        {{/if}}
+        {{#if email}}
+        <div class="element">
+            <a href="mailto:{{email}}">{{email}}</a>
+        </div>
+        {{/if}}
+        {{#if phone}}
+        <div class="element">
+            <a href="tel:{{phone}}">{{phone}}</a>
+        </div>
+        {{/if}}
+    </address>
+    {{/if}}
+    {{#location}}
+        {{#if (or address postalCode city countryCode region)}}
+        <address>
+            <h3>Location</h3>
+
+            <div class="element">
+                {{#if address}}
+                    <span>{{address}}</span>
+                {{/if}}
+                {{#if postalCode}}
+                    <span>{{postalCode}}</span>
+                {{/if}}
+                {{#if city}}
+                    <span>{{city}}</span>
+                {{/if}}
+                {{#if region}}
+                    <span>{{region}}</span>
+                {{/if}}
+                {{#if countryCode}}
+                    <span>{{countryCode}}</span>
+                {{/if}}
+            </div>
+        </address>
+        {{/if}}
+    {{/location}}
+    {{#if profiles.length}}
+    <article>
+        <h3>Profiles</h3>
+
+        {{#each profiles}}
+            {{#if url}}
+                <div class="element">
+                    {{#if network}}
+                        <div><a href="{{url}}" data-print="url">{{network}}</a></div>
+                    {{else}}
+                        <div><a href="{{url}}" data-print="url">Link</a></div>
+                    {{/if}}
+                </div>
+            {{/if}}
+        {{/each}}
+    </article>
+    {{/if}}
+</section>
+
+{{/resume.basics}}
