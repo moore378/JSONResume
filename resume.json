@@ -132,8 +132,21 @@
       "highlights": [
         "Automated processing over 1200 Covid-19 PDF waivers for Escondido Soccer Club. This is a C# application reading PDF waivers, sorting them based on type and language, and organizing them based on language and team.",
 	"Creating Chrome Extension using CSS and Javascript customizing Haynes online manuals.",      
-	"Creating Chrome Extension using CSS and Javascript customizing Amazon book pages integrating Goodreads.com (in process).",
-	"Volunteering with USDR helping develop web applications for cities supporting their needs during the Covid-19 pandemic." 
+	"Creating Chrome Extension using CSS and Javascript customizing Amazon book pages integrating Goodreads.com (in process)."
+      ]
+    },
+	{
+      "summary": "Working as a technical manager and mentor for a non-prophet organization developing a web application. The application determines if applicants qualify for certain programs connecting people with resources. I help define and manage the technical strategy based on guidelines from the client.",
+	  "website": "https://www.usdigitalresponse.org/",
+      "company": "US Digital Response",
+      "pinned": false,
+      "location": "San Diego, CA",
+      "position": "Technical Manager",
+      "startDate": "2021-04-23",
+      "highlights": [
+	"Work is 100% remote.",
+    "Effort involves over three different organizations.",
+	"Web application is developed in Django living on the AWS cloud."
       ]
     },
     {
