@@ -25,10 +25,11 @@
       }
     ]
   },
+
   "education": [
     {
-      "endDate": "2008",
-      "startDate": "2005",
+      "endDate": "2008-04-01",
+      "startDate": "2005-10-01",
       "area": "Business Administration",
       "studyType": "Masters",
       "institution": "University of Phoenix",
@@ -38,24 +39,13 @@
 		}
     },
 	{
-      "endDate": "1996",
-      "startDate": "1991",
+      "endDate": "1996-05-01",
+      "startDate": "1991-08-01",
       "area": "Economics",
       "studyType": "Bachelors of Arts",
       "institution": "Humboldt State University",
 	  "location": {
 		  "city": "Arcata, CA",
-		  "countryCode": "US"
-		}
-    },
-	
-	{
-      
-	  "studyType": "Certificate",
-      "institution": "UCSD Extension",
-	  "courses": ["Python", "ASP.NET MVC"],
-	  "location": {
-		  "city": "San Diego, CA",
 		  "countryCode": "US"
 		}
     }
@@ -120,16 +110,43 @@
       "awarder": "Boy Scouts of America"
     }
   ],
+  "certificates": [{
+    "name": "Python",
+    "date": "2003-06-01",
+    "issuer": "UCSD Extension",
+    "url": "https://extendedstudies.ucsd.edu/"
+  },
+  {
+    "name": "ASP.NET MVC",
+    "date": "2017-06-01",
+    "issuer": "UCSD Extension",
+    "url": "https://extendedstudies.ucsd.edu/"
+  }],
   "work": [
     
+    {
+      "summary": "Contractor for Acuity International working on multiple web-based applications dealing with managing medical services for businesses and their employees.",
+	  "website": "https://www.optomo.com/",
+      "name": "Optomi Professional Services",
+      "pinned": false,
+      "location": "Cape Caneveral, FL",
+      "position": ".Net Engineer",
+      "startDate": "2022-02-28",
+      "highlights": [
+	"Work is 100% remote.",
+    "Full-stack engineer working with C#, Knockout.js (javascript), and SQL Server.",
+    "Applications used MVVM model"
+      ]
+    },
 	{
       "summary": "Working as a technical manager and mentor for a non-profit organization developing a web application. Setup the infrastructure on Lightsail AWS, architected the solution and developed the application. The application determines if applicants qualify for specific programs connecting people with resources.",
 	  "website": "https://www.usdigitalresponse.org/",
-      "company": "US Digital Response",
+      "name": "US Digital Response",
       "pinned": false,
       "location": "San Diego, CA",
       "position": "Technical Manager",
       "startDate": "2021-04-23",
+      "endDate": "2022-02-01",
       "highlights": [
 	"Work is 100% remote.",
     "Effort involves over three different organizations.",
@@ -139,7 +156,7 @@
 	{
       "summary": "Worked as an independant contractor.",
 	  "website": "https://techmooresolutions.com",
-      "company": "Techmoore Solutions",
+      "name": "Techmoore Solutions",
       "pinned": false,
       "location": "San Diego, CA",
       "position": "Senior Software Engineer",
@@ -162,7 +179,7 @@
       "website": "https://ipsgroupinc.com",
       "pinned": false,
 	  "location": "San Diego, CA",
-      "company": "IPS Group Inc.",
+      "name": "IPS Group Inc.",
       "position": "Senior Software Engineer",
       "startDate": "2016-10-01",
       "endDate": "2019-05-01",
@@ -176,7 +193,7 @@
       "pinned": false,
       "summary": "Serco is a defense contractor managing the TORIS contract. The TORIS contract facilitated some training of Navy personnel.",
       "website": "http://www.serco.com",
-      "company": "Serco",
+      "name": "Serco",
       "position": "Technical Business Analyst (contract)",
       "startDate": "2016-01-01",
 	  "endDate": "2016-03-01",
@@ -189,7 +206,7 @@
       ],
       "summary": "Developed new and existing web-based solutions for company's HR benefits management web application.",
       "website": "http://www.benetrac.com",
-      "company": "Benetrac",
+      "name": "Benetrac",
       "position": "Senior Software Engineer/Scrum Master (contract)",
       "startDate": "2014-10-01",
       "endDate": "2015-12-01",
@@ -203,7 +220,7 @@
       ],
       "summary": "Company was sub-contracted to help segment sections of the JMPS program.",
       "website": "http://www.avatarpartners.com",
-      "company": "Avatar Partners",
+      "name": "Avatar Partners",
       "position": "Senior Software Engineer",
       "endDate": "2014-08-01",
       "startDate": "2014-04-01",
@@ -216,7 +233,7 @@
 	  ],
       "summary": "I was brought in specifically for my DevOps experience to help architect a new CI/CD system. ",
       "website": "http://teradata.com",
-      "company": "Teradata",
+      "name": "Teradata",
       "position": "Senior Software Engineer/Enterprise Continuous Integration Engineer (contract)",
       "startDate": "2013-08-01",
 	  "endDate": "2014-03-01",
@@ -230,7 +247,7 @@
       ],
       "summary": "Developed and maintained new and existing solutions within company's web application supporting shipping logistics for shipping companies. ",
       "website": "http://www.nte.com",
-      "company": "NTE",
+      "name": "NTE",
       "position": "Director of Application Development",
       "startDate": "2012-06-01",
       "endDate": "2013-08-01",
@@ -246,7 +263,7 @@
       ],
       "summary": "Developed new and maintained existing software within the JMPS program using C#, VB, and C++. Fixed the build process allowing nightly builds and monthly releases. Led the training seminar for third-party engineers on how to build and deploy the JMPS application. Automated Jenkins setup by pulling content from a CMS, parsing the project files, and then updating and running Jenkin's projects. Co-authored two proposals for the government.",
       "website": "http://www.baesystems.com",
-      "company": "BAE Systems",
+      "name": "BAE Systems",
       "position": "Senior Software Engineer",
       "startDate": "2008-09-01",
 	  "endDate": "2012-03-01",
@@ -257,7 +274,7 @@
         "The company was brand new with only two people in the company."
       ],
       "summary": "Architected and populated a new database with genetic research material. Worked closely with a business consultant defining operation processes and the effort needed to automate them.",
-      "company": "Existence Genetics",
+      "name": "Existence Genetics",
       "position": "Contractor",
       "startDate": "2008-03-01",
       "endDate": "2008-09-01",
@@ -269,7 +286,7 @@
 		"Brought in graphics designer and oversaw update of UI design."
       ],
       "summary": "Designed and developed a web application for deployed Marines offering detailed instructional checklists. The application also provided an inventory status helping the Marines identify their capability status.",
-      "company": "EG&G Technical Services",
+      "name": "EG&G Technical Services",
       "position": "Senior Software Engineer",
       "endDate": "2007-12-01",
       "startDate": "2005-08-01",
