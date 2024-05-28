@@ -1,5 +1,5 @@
 {
-  "basics": {
+ "basics": {
     "name": "Richard H. Moore Jr.",
     "label": "Senior Software Engineer",
     "summary": "Over 25 years of software engineering experience. Achieved the following:<ul><li>Worked as a full-stack web developer using ASP.NET (C#/VB.NET WebForms & MVC), PHP, and Perl.</li><li>Worked with MSSQL, MySQL, and other databases. Also used Code-First technology (EntityFramework, Telerik ORM) with some projects.</li><li>Past projects also include microservices, multi-threading, multi-platform, hardware integration (IoT), and third-party integration ranging from web services to direct software module installation.</li><li>Worked in different industries such as the financial (credit card processing), employee benefits, logistics (shipping), and defense industries.</li><li>Held top secret and secret clearances with the government.</li><li>Acted in other capacities when needed, such as business analyst, architect, tester, and dev ops engineer.</li><li>Successfully worked with remote teams and globally distributed team members.</li><li>Experienced with many development methodologies such as Waterfall, Scrum, and Kanban.</li><li>Used different agile methods such as Continuous Integration (CI), Test Driven Development (TDD), and Pair Programming.</li><li>Established DevOps tools and processes within companies.</li><li>Trained and mentored teams in DevOps tools and processes as well as Scrum methodology.</li><li>Masters in Business Administration (MBA), Certified Scrum Master (CSM), Certified Scrum Developer (CSD), and Advanced Certified Scrum Developer  (A-CSD)</li></ul>",
@@ -123,7 +123,7 @@
     "url": "https://extendedstudies.ucsd.edu/"
   }],
   "work": [
-    
+
     {
       "summary": "Contractor for Acuity International working on multiple web-based applications dealing with managing medical services for businesses and their employees.",
 	  "website": "https://acuityinternational.com/",
@@ -132,10 +132,21 @@
       "location": "Cape Caneveral, FL",
       "position": ".Net Engineer",
       "startDate": "2022-02-28",
+      "endDate": "2024-03-01",
       "highlights": [
 	"Work is 100% remote.",
     "Full-stack engineer working with C#, Knockout.js (javascript), and SQL Server.",
-    "Applications used MVVM model"
+    "Applications used MVVM model",
+    "Project Thunder: Exam Types - I wrote a specification on transferring this application from AccessMETS to WebMETS. Unbeknownst to me, Ismael had planned this out but was commended for my vision aligning with the company’s vision and was tasked implementing this transition.",
+    "Project Thunder: Randomwhere - I began working on this application with 3p helping them navigate the application. I worked heavily with Kevin Garbin, originator of the application, answering 3p questions. I also did some development work early on in the project but was moved off to handle Hearing Conservation.",
+    "Project Thunder: Hearing Conservation - I added the Hearing Conservation project into WebMETS.  I mapped all the Access code and converted it to C# for WebMETS. I also integrated the features desired in UMETS into the new WebMETS. All this work entailed updating the UI in C# and Javascript, creating all the business logic in C#, and mapping the new WebMETS logc with the database elements. I then needed to modify the database to handle the new UMETS functionality.",
+    "Project Thunder: Security Update - I worked with others to upgrade the security of each project enabling 3p to work on projects without revealing secrets being used in production.",
+    "WebMETS integration with Costpoint - Worked with Finance, Kevin Garbin, and Ismael Almonte and learned how to update Costpoint wihtout sacraficing the integrity of the current architecture supporting Costpoint upgrades in the future.",
+    "WebMETS Maintence - Worked for the past two years on all areas of WebMETS fixing and updating features.",
+    "EAS - Worked for the past two years on all areas of EAS fixing and updating features.",
+    "EAS - Navigated the complexity of communication between WebMETS and EAS databases. This can be seen in my work on Exam Types.",
+    "Forms - I help develop and maintain forms within the Forms application.",
+    "Forms - Performed maintenence on the Forms application."
       ]
     },
 	{
@@ -163,13 +174,13 @@
       "startDate": "2019-05-01",
       "highlights": [
         "Automated processing over 1200 Covid-19 PDF waivers for Escondido Soccer Club. This is a C# application reading PDF waivers, sorting them based on type and language, and organizing them based on language and team.",
-	"Creating Chrome Extension using CSS and Javascript customizing Haynes online manuals.",      
+	"Creating Chrome Extension using CSS and Javascript customizing Haynes online manuals.",
 	"Creating Chrome Extension using CSS and Javascript customizing Amazon book pages integrating Goodreads.com (in process)."
       ]
     },
     {
       "highlights": [
-        "Architected and developed microservices for processing financial transactions using C#, MSSQL, and Quartz.NET scheduler. The process uses Reflection updating services based on changes made in DB.",     
+        "Architected and developed microservices for processing financial transactions using C#, MSSQL, and Quartz.NET scheduler. The process uses Reflection updating services based on changes made in DB.",
         "Built WCF Web Services supporting various credit card processor needs.",
         "Built a settlement processor for Barclaycard. Processor builds a settlement file, sends it to Barclaycard via SSL FTP, pulls response files via SSL FTP, and parses and processes the data from the response files. Settlement processor uses the microservices process.",
 		"Developed Continuous Integration and Packaging services using Jenkins and NuGet for EMV project.",
