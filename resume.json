@@ -17,11 +17,6 @@
         "network": "linkedin",
 		  "username": "richard-moore-9b238723",
 		  "url": "https://www.linkedin.com/in/richard-moore-9b238723/"
-      },
-      {
-        "url": "https://github.com/moore378",
-        "username": "moore378",
-        "network": "github"
       }
     ]
   },
@@ -261,7 +256,7 @@
         "Successfully navigated and managed complex interpersonal challenges, fostering collaboration and restoring productivity in a high-pressure environment."
       ],
       "pinned": false,
-      "summary": "Serco is a defense contractor managing the TORIS contract. The TORIS contract facilitated some training of Navy personnel. The project had labor issues with the database personnel. I was tasked to help facilitate the issues and document their process.",
+      "summary": "Serco is a defense contractor managing the TORIS contract. The TORIS contract facilitated some training of Navy personnel. The project had labor issues with the database personnel. I was tasked with helping to facilitate the issues and documenting their process.",
       "website": "http://www.serco.com",
       "company": "Serco",
       "position": "Technical Business Analyst",
@@ -279,7 +274,7 @@
 
         "Developed and maintained application features using VB (Classic ASP), C# (ASP.NET), and SQL Server, applying Test Driven Development (TDD) and peer code reviews for quality assurance,",
 
-        "Led a key project to integrate third-party vendors with the BeneTrac platform, architecting and developing a secure solution using HTML5, CSS3, jQuery, RESTful web services, C#, and SQL Server,",
+        "Led a key project to integrate third-party vendors with the BeneTrac platform, architecting and developing a secure solution using HTML5, CSS3, jQuery, RESTful web services, C#, and SQL Server.",
 
         "Implemented mutual authentication to secure communication channels between external systems and the BeneTrac application, ensuring data privacy and compliance,"
       ],
