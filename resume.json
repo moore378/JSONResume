@@ -182,7 +182,9 @@
         "Collaborated with external consultants on the Randomwhere system within Acuity's WebMTS web application, providing project scoping guidance and initiating early-stage development before handing off to the agency for completion.",
         "Led security audits and updates across all active projects, mitigating vulnerabilities and ensuring alignment with modern security standards.",
         "Integrated Acuity's WebMETS web application with Costpoint accounting software, improving financial operations and invoice processing efficiency for the Finance department.",
-        "Contributed to all facets of application development—front-end, backend, and business logic—delivering enhancements and resolving critical bugs in a fully remote environment."
+        "Contributed to all facets of application development—front-end, backend, and business logic—delivering enhancements and resolving critical bugs in a fully remote environment.",
+	"Applied Agile development practices, including Test-Driven Development (TDD) and Continuous Integration (CI), to deliver high-quality, continuously tested code in a multi-language environment (C++, C#, VB6).",
+	"Leveraged strong Object-Oriented Design (OOD) principles to refactor complex, multi-technology codebases, improving maintainability and scalability."
       ],
       "keywords": ["C#","MSSQL", "ASP.NET", "MVC","REST Web Services", "SOAP Web Services", "Scrum", ".NET Core","Visual Studio", "Entity Framework", "AngularJS", "KnockoutJS", "Javascript"]
     },
@@ -233,7 +235,9 @@
 
         "Modernized legacy codebases by converting .NET Framework projects to .NET Core, enhancing performance, maintainability, and future scalability.",
 
-        "Provided technical support and integration guidance to third-party development teams, ensuring smooth onboarding of new processors and payment features."
+        "Provided technical support and integration guidance to third-party development teams, ensuring smooth onboarding of new processors and payment features.",
+	"Applied Agile development practices, including Test-Driven Development (TDD) and Continuous Integration (CI), to deliver high-quality, continuously tested code in a multi-language environment (C++, C#).",
+	"Leveraged strong Object-Oriented Design (OOD) principles to refactor complex, multi-technology codebases, improving maintainability and scalability."
       ],
       "summary": "The company produces “smart” parking meters (IoT). Worked on session and transaction services backend logic. The work entailed adding new credit card processors, supporting third-party development teams, and other payment processing functions such as EMV support. All development is using C#.Net and MSSQL.",
       "website": "https://ipsgroupinc.com",
@@ -277,6 +281,8 @@
         "Led a key project to integrate third-party vendors with the BeneTrac platform, architecting and developing a secure solution using HTML5, CSS3, jQuery, RESTful web services, C#, and SQL Server.",
 
         "Implemented mutual authentication to secure communication channels between external systems and the BeneTrac application, ensuring data privacy and compliance,"
+	"Applied Agile development practices, including Test-Driven Development (TDD) and Continuous Integration (CI), to deliver high-quality, continuously tested code in a multi-language environment (C#, VB6).",
+	"Leveraged strong Object-Oriented Design (OOD) principles to refactor complex, multi-technology codebases, improving maintainability and scalability."
       ],
       "summary": "BeneTrac provides a web-based platform that enables companies and their employees to manage HR benefits through a user-friendly interface.",
       "website": "http://www.benetrac.com",
@@ -296,7 +302,10 @@
 
         "Applied Test Driven Development (TDD) and conducted regular peer reviews to ensure code quality, reliability, and adherence to development standards.",
 
-        "Segmented core components of the JMPS application, enabling modular development and simplifying future maintenance and feature integration."
+        "Segmented core components of the JMPS application, enabling modular development and simplifying future maintenance and feature integration.",
+	"Applied Agile development practices, including Test-Driven Development (TDD) and Continuous Integration (CI), to deliver high-quality, continuously tested code in a multi-language environment (C#, VB6).",
+	"Leveraged strong Object-Oriented Design (OOD) principles to refactor complex, multi-technology codebases, improving maintainability and scalability."
+
       ],
       "summary": "Avatar Partners was contracted to help decouple and update segments of the Joint Mission Planning Systems (JMPS) application. This application is used by both the Navy and Air Force to plan flight-based missions.",
       "website": "http://www.avatarpartners.com",
@@ -390,7 +399,10 @@
 
         "Completed advanced training courses including Architecting Enterprise Solutions, Enterprise Architecture Application Training, and White Hat IT Security, strengthening enterprise-level development and security knowledge,",
 
-        "Consistently presented project progress and technical findings to internal and external stakeholders, organizing and facilitating live demonstrations,"
+        "Consistently presented project progress and technical findings to internal and external stakeholders, organizing and facilitating live demonstrations,",
+	"Applied Agile development practices, including Test-Driven Development (TDD) and Continuous Integration (CI), to deliver high-quality, continuously tested code in a multi-language environment (C++, C#, VB6).",
+	"Leveraged strong Object-Oriented Design (OOD) principles to refactor complex, multi-technology codebases, improving maintainability and scalability."
+
       ],
       "summary": "BAE Systems is a government contracting company. I initially worked on the JMPS, Joint Mission Planning System, program, as well as worked on various proposal teams alongside other programs, providing software and continuous integration efforts.",
       "website": "http://www.baesystems.com",
