@@ -161,7 +161,10 @@
       "highlights": [
         "Diagnosed and resolved a critical breakdown in the City’s vendor payment and invoice processing workflow by evaluating and optimizing its .NET-based invoicing software.",
         "Recommended and implemented a cost-effective solution to align the ERP system (Tyler Munis) with municipal payment processes, improving accuracy and reducing delays.",
-        "Collaborated with stakeholders, including representatives from the Harvard Kennedy School, to ensure alignment with best practices in public financial management."
+        "Collaborated with stakeholders, including representatives from the Harvard Kennedy School, to ensure alignment with best practices in public financial management.",
+	"Applied Agile development practices, including Test-Driven Development (TDD) and Continuous Integration (CI), to deliver high-quality, continuously tested code in a multi-language environment (C#).",
+	"Leveraged strong Object-Oriented Design (OOD) principles to refactor complex, multi-technology codebases, improving maintainability and scalability."
+
       ],
       "keywords": [".NET", "Scrum", "Lead"]
     },
@@ -280,7 +283,7 @@
 
         "Led a key project to integrate third-party vendors with the BeneTrac platform, architecting and developing a secure solution using HTML5, CSS3, jQuery, RESTful web services, C#, and SQL Server.",
 
-        "Implemented mutual authentication to secure communication channels between external systems and the BeneTrac application, ensuring data privacy and compliance,"
+        "Implemented mutual authentication to secure communication channels between external systems and the BeneTrac application, ensuring data privacy and compliance.",
 	"Applied Agile development practices, including Test-Driven Development (TDD) and Continuous Integration (CI), to deliver high-quality, continuously tested code in a multi-language environment (C#, VB6).",
 	"Leveraged strong Object-Oriented Design (OOD) principles to refactor complex, multi-technology codebases, improving maintainability and scalability."
       ],
