@@ -2,7 +2,7 @@
  "basics": {
     "name": "Richard H. Moore Jr.",
     "label": "Senior Software Engineer",
-    "summary": "Over 30 years of software engineering experience. Achieved the following:  \n\n&nbsp;&nbsp;&bull; In all my years I have worn many hats such as software engineer, team lead, architect, analyst, DB engineer, and DevOps engineer.\n\n &nbsp;&nbsp;&bull; Worked as a full-stack web developer in both Linux/Unix and Microsoft platforms.\n\n &nbsp;&nbsp;&bull; Worked with MSSQL, MySQL, and other databases. Also used Code-First technology (EntityFramework, Telerik ORM) with some projects.\n\n &nbsp;&nbsp;&bull; Past projects also include microservices, multi-threading, multi-platform, hardware integration (IoT), and third-party integration ranging from web services to direct software module installation.\n\n &nbsp;&nbsp;&bull; Worked in different industries such as the financial (credit card processing), employee benefits, logistics (shipping), and defense industries.\n\n &nbsp;&nbsp;&bull; Held top secret and secret clearances with the government.\n\n &nbsp;&nbsp;&bull; Successfully worked with remote teams and globally distributed team members.\n\n &nbsp;&nbsp;&bull; Experienced with many development methodologies such as Waterfall, Scrum, and Kanban.\n\n &nbsp;&nbsp;&bull; Used different agile methods such as Continuous Integration (CI), Test Driven Development (TDD), and Pair Programming.\n\n &nbsp;&nbsp;&bull; Established DevOps tools and processes within companies.\n\n &nbsp;&nbsp;&bull; Trained and mentored teams in DevOps tools and processes as well as Scrum methodology.\n\n &nbsp;&nbsp;&bull; Masters in Business Administration (MBA), Certified Scrum Master (CSM), Certified Scrum Developer (CSD), and Advanced Certified Scrum Developer (A-CSD)",
+    "summary": "Over 30 years of software engineering experience. Achieved the following:  \n\n&nbsp;&nbsp;&bull; In all my years I have worn many hats such as software engineer, team lead, architect, analyst, DB engineer, and DevOps engineer.\n\n &nbsp;&nbsp;&bull; Worked as a full-stack web developer in both Linux/Unix and Microsoft platforms.\n\n &nbsp;&nbsp;&bull; Worked with MSSQL, MySQL, and other databases. Also used Code-First technology (EntityFramework, Telerik ORM) with some projects.\n\n &nbsp;&nbsp;&bull; Past projects also include microservices, multi-threading, multi-platform, hardware integration (IoT), and third-party integration ranging from web services to direct software module installation.\n\n &nbsp;&nbsp;&bull; Worked in different industries such as the financial (credit card processing), employee benefits, logistics (shipping), and defense industries.\n\n &nbsp;&nbsp;&bull; Held top secret and secret clearances with the government.\n\n &nbsp;&nbsp;&bull; Successfully worked with remote teams and globally distributed team members.\n\n &nbsp;&nbsp;&bull; Experienced with many development methodologies such as Waterfall, Scrum, and Kanban.\n\n  &nbsp;&nbsp;&bull; Software Architect and Technical Leader with extensive experience in Agile and DevOps practices, including Continuous Integration/Continuous Deployment (CI/CD), automated testing, infrastructure automation, and cross-functional collaboration to deliver high-quality, mission-critical systems.\n\n &nbsp;&nbsp;&bull; Managed large-scale data migration as part of system modernization, coordinating with cross-functional teams to ensure data integrity, compliance, and minimal downtime.\n\n &nbsp;&nbsp;&bull; Trained and mentored teams in DevOps tools and processes as well as Scrum methodology.\n\n &nbsp;&nbsp;&bull; Masters in Business Administration (MBA), Certified Scrum Master (CSM), Certified Scrum Developer (CSD), and Advanced Certified Scrum Developer (A-CSD)",
 	"website": "https://techmooresolutions.com",
     "email": "richard.h.moore.jr@gmail.com",
 	"phone": "(951) 765-7531",
@@ -84,6 +84,8 @@
     {
       "keywords": [
         "Visual Studio",
+		"Azure DevOps",
+		"AWS",
         "JIRA/Confluence/Bitbucket",
 		"TFS",
         "Rational Team Concert (RTC)",
@@ -181,15 +183,16 @@
         "Served as a Full-Stack Engineer for Acuity International, leading modernization efforts across multiple web-based applications supporting occupational medical services for corporate clients.",
         "Navigated and maintained a complex tech stack spanning legacy ASP/AccessDB, modern C# .NET, SQL Server, AngularJS, and Knockout.js, ensuring seamless functionality across all layers of the application.",
         "Authored a comprehensive technical specification for migrating a core application from Legacy ASP/AccessDB to C# .NET and SQL Server, laying the foundation for long-term scalability and maintainability.",
-        "Converted and enhanced key features, such as the Hearing Conservation system within Acuity's WebMTS web application, transitioning from outdated legacy components to modern .NET architecture using the MVVM pattern.",
+        "Upgraded outdated technologies to modern platforms, incorporating new business-driven functionality and performing data migration, resulting in enhanced performance, improved user experience, and long-term maintainability.",		
         "Collaborated with external consultants on the Randomwhere system within Acuity's WebMTS web application, providing project scoping guidance and initiating early-stage development before handing off to the agency for completion.",
         "Led security audits and updates across all active projects, mitigating vulnerabilities and ensuring alignment with modern security standards.",
         "Integrated Acuity's WebMETS web application with Costpoint accounting software, improving financial operations and invoice processing efficiency for the Finance department.",
         "Contributed to all facets of application development—front-end, backend, and business logic—delivering enhancements and resolving critical bugs in a fully remote environment.",
 	"Applied Agile development practices, including Test-Driven Development (TDD) and Continuous Integration (CI), to deliver high-quality, continuously tested code in a multi-language environment (C++, C#, VB6).",
-	"Leveraged strong Object-Oriented Design (OOD) principles to refactor complex, multi-technology codebases, improving maintainability and scalability."
+	"Leveraged strong Object-Oriented Design (OOD) principles to refactor complex, multi-technology codebases, improving maintainability and scalability.",
+	"Utilized Azure DevOps for source control, build automation, and release management, enabling faster development cycles, improved code quality, and on-time delivery of products and services."
       ],
-      "keywords": ["C#","MSSQL", "ASP.NET", "MVC","REST Web Services", "SOAP Web Services", "Scrum", ".NET Core","Visual Studio", "Entity Framework", "AngularJS", "KnockoutJS", "Javascript"]
+      "keywords": ["C#","MSSQL", "ASP.NET", "MVC","REST Web Services", "SOAP Web Services", "Scrum", ".NET Core","Visual Studio", "Azure DevOps", "Entity Framework", "AngularJS", "KnockoutJS", "Javascript"]
     },
 	{
       "summary": "The city of Memphis, GA, was building a web application connecting citizens with various housing programs the city provided. The web application asked questions and offered specific housing options based on the answers given.",
